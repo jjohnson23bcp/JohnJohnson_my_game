@@ -12,7 +12,11 @@ RUNNING = True
 PLAYER_ACC = 2
 PLAYER_FRICTION = -0.12
 
+# mob attributes
+MOB_ACC = 2
+MOB_FRICTION = -0.12
 
 # colors
 BLACK = (0, 0, 0)
 BLUE = (50, 50, 255)
+RED = (255, 50, 50)
